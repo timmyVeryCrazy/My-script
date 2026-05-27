@@ -1,3 +1,5 @@
+print("hello")
+
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
 local Window = Rayfield:CreateWindow({ Name = "Yali's total roblox drama Script", Icon = 0, LoadingTitle = "Yali's total roblox drama Script", LoadingSubtitle = "by Yali", Theme = "Default", DisableRayfieldPrompts = false, DisableBuildWarnings = false, ConfigurationSaving = { Enabled = true, FolderName = nil, FileName = "TeleportHub" }, Discord = { Enabled = false, Invite = "noinvitelink", RememberJoins = true }, KeySystem = false })
